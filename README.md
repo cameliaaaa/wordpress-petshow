@@ -8,6 +8,7 @@ Current issue with the website:
 -	Do not know how to analyze the data to improve the website  
 -	Do not know how to keep the current readers and attract new readers 
 (Plugin choice):
+
 SEO plugin: 
 - that can give overall scores on the readability and presentation on the post and also make search engineer easy to crawl your website. Which enable your website to be easily found by your reader. 
 -	SEO plugin also improve your posts to make it easy to read.
@@ -15,24 +16,29 @@ Set up the SEO plugin
 -	Install the yoast SEO plugin and activate it , go to the setting to turn all the options on 
 -	Then manipulate the search appearance 
 (Plugin chosen): 
+
 Analytical plugin
 - it will help to find how visitors visit the blog and help to improve from the data to attract new visitors and keep the current readers. 
 -	Analyze the visiting and reading to improve the website  
 -	Analyze the user’s behavior to help improve the website 
 
 (Set up)
+
 -	Choose WP statistic as the analytical plugin, search on the plugin site and install it.
 -	Then go to the settings and activate the visits and enable data record on different search engine
 -	Then go to the overview can see the hits and visits and the IP address of all the visitors also show which page they visit 
 
 (Plugin chosen)
+
 Image optimize plugin: 
 - it will improve the overall quality of the image used in the website to make it more attractive to readers 
 (Plugin chosen):
+
 Popular post plugin: 
 - it is for design of the website.
 -	Display the most popular articles to new users to help attract more new visitors to the website 
 (Plugin chosen)
+
 Cache management plugin 
 -	Ensure the web pages can be loaded faster each time a visitor request to visit your page 
 -	It will ensure the visitor can visit your page easily and will not waste to much time to load your pages 
