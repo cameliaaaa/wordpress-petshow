@@ -7,6 +7,7 @@ Current issue with the website:
 -	Do not know how to make the website being attractive to readers  
 -	Do not know how to analyze the data to improve the website  
 -	Do not know how to keep the current readers and attract new readers 
+
 (Plugin choice):
 
 SEO plugin: 
@@ -15,6 +16,7 @@ SEO plugin:
 Set up the SEO plugin 
 -	Install the yoast SEO plugin and activate it , go to the setting to turn all the options on 
 -	Then manipulate the search appearance 
+
 (Plugin chosen): 
 
 Analytical plugin
@@ -32,11 +34,13 @@ Analytical plugin
 
 Image optimize plugin: 
 - it will improve the overall quality of the image used in the website to make it more attractive to readers 
+
 (Plugin chosen):
 
 Popular post plugin: 
 - it is for design of the website.
 -	Display the most popular articles to new users to help attract more new visitors to the website 
+
 (Plugin chosen)
 
 Cache management plugin 
