@@ -17,10 +17,12 @@ Plugin chosen:
 -	Analytical plugin,it will help to find how visitors visit the blog and help to improve from the data to attract new visitors and keep the current readers. 
 -	Analyze the visiting and reading to improve the website  
 -	Analyze the user’s behavior to help improve the website 
-Set up 
+
+(Set up)
 -	Choose WP statistic as the analytical plugin, search on the plugin site and install it.
 -	Then go to the settings and activate the visits and enable data record on different search engine
 -	Then go to the overview can see the hits and visits and the IP address of all the visitors also show which page they visit 
+
 Plugin chosen
 -	Image optimize plugin: it will improve the overall quality of the image used in the website to make it more attractive to readers 
 Plugin chosen:
