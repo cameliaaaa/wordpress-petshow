@@ -1,5 +1,7 @@
 # wordpress-petshow
-potshot website created
+petshot website created
+
+
 Current issue with the website:
 -	Do not know how to improve the website  
 -	Do not know how to make the website being attractive to readers  
